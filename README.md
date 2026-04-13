@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @princekhanna13
+- 👋 Hi, I’m @prince-khanna
 - 👀 I’m interested in Golang
 - 🌱 I’m currently learning Golang Operators
 - 💞️ I’m looking to collaborate on opensource go projects
